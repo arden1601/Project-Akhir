@@ -1,0 +1,22 @@
+INSERT INTO author (author_name, year_born, year_died)
+VALUES
+('George Orwell', '1903-06-25', '1950-01-21'),
+('Jane Austen', '1775-12-16', '1817-07-18'),
+('Mark Twain', '1835-11-30', '1910-04-21'),
+('J.K. Rowling', '1965-07-31', NULL),
+('Ernest Hemingway', '1899-07-21', '1961-07-02'),
+('F. Scott Fitzgerald', '1896-09-24', '1940-12-21'),
+('Agatha Christie', '1890-09-15', '1976-01-12'),
+('J.R.R. Tolkien', '1892-01-03', '1973-09-02'),
+('Charles Dickens', '1812-02-07', '1870-06-09'),
+('Leo Tolstoy', '1828-09-09', '1910-11-20'),
+('Gabriel Garcia Marquez', '1927-03-06', '2014-04-17'),
+('Harper Lee', '1926-04-28', '2016-02-19'),
+('Herman Melville', '1819-08-01', '1891-09-28'),
+('Oscar Wilde', '1854-10-16', '1900-11-30'),
+('Virginia Woolf', '1882-01-25', '1941-03-28'),
+('Edgar Allan Poe', '1809-01-19', '1849-10-07'),
+('Mary Shelley', '1797-08-30', '1851-02-01'),
+('H.G. Wells', '1866-09-21', '1946-08-13'),
+('Arthur Conan Doyle', '1859-05-22', '1930-07-07'),
+('Jules Verne', '1828-02-08', '1905-03-24');

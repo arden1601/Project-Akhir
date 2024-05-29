@@ -1,0 +1,22 @@
+INSERT INTO book (category_id,book_name, publish_year, pages, author_id, publisher_id)
+VALUES
+(3,'1984', '1949-06-08', 328, 1, 1),
+(1,'Pride and Prejudice', '1813-01-28', 279, 2, 2),
+(2,'Adventures of Huckleberry Finn', '1884-12-10', 366, 3, 3),
+(4,'Harry Potter and the Philosopher Stone', '1997-06-26', 223, 4, 1),
+(6,'The Old Man and the Sea', '1952-09-01', 127, 5, 4),
+(5,'The Great Gatsby', '1925-04-10', 218, 6, 5),
+(7,'Murder on the Orient Express', '1934-01-01', 256, 7, 6),
+(8,'The Hobbit', '1937-09-21', 310, 8, 7),
+(11,'A Tale of Two Cities', '1859-04-30', 489, 9, 8),
+(9,'War and Peace', '1869-01-01', 1225, 10, 9),
+(12,'One Hundred Years of Solitude', '1967-05-30', 417, 11, 10),
+(5,'To Kill a Mockingbird', '1960-07-11', 281, 12, 11),
+(2,'Moby-Dick', '1851-10-18', 635, 13, 12),
+(3,'The Picture of Dorian Gray', '1890-06-20', 254, 14, 13),
+(5,'Mrs Dalloway', '1925-05-14', 213, 15, 14),
+(1,'The Raven', '1845-01-29', 64, 16, 15),
+(2,'Frankenstein', '1818-01-01', 280, 17, 16),
+(13,'The War of the Worlds', '1898-01-01', 287, 18, 17),
+(15,'The Hound of the Baskervilles', '1902-04-01', 256, 19, 18),
+(17,'Twenty Thousand Leagues Under the Sea', '1870-06-20', 440, 20, 19);
