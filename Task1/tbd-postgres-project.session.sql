@@ -1,1 +1,1 @@
-SELECT * FROM customer_reviews;
+SELECT * from book_stock;
